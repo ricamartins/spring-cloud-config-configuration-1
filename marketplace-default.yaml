@@ -1,6 +1,6 @@
 effectors:
-  color: red
-  item: osmio-sword
+  color: blue
+  item: mithril-sword
 
 security:
   user: 
