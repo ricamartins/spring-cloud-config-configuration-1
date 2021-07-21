@@ -1,3 +1,8 @@
 spring:
   application:
     name: marketplace-aloha123
+
+toggles:
+  csgo: true
+  world-of-warcraft: false
+  monster-hunter-world: true
