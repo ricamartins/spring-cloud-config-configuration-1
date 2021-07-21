@@ -6,3 +6,5 @@ security:
   user: 
     name: "caique"
     password: "caique"
+
+management.endpoints.web.exposure.include: "health,refresh"
