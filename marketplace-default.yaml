@@ -1,3 +1,8 @@
 effectors:
   color: red
   item: osmio-sword
+
+security:
+  user: 
+    name: "caique"
+    password: "caique"
