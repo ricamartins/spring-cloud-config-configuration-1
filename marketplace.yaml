@@ -1,4 +1,3 @@
-toggles:
-  csgo: false
-  world-of-warcraft: false
-  monster-hunter-world: false
+effectors:
+  color: red
+  item: osmio-sword
