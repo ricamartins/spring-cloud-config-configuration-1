@@ -1,0 +1,8 @@
+features.toggles:
+    new-feature: false
+    another: true
+    another-one: true
+    publisher: true
+    listener: true
+    one: true
+    two: true
