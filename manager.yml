@@ -4,5 +4,5 @@ features.toggles:
     another-one: true
     publisher: true
     listener: true
-    one: false
+    one: true
     two: true
