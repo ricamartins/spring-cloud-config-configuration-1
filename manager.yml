@@ -6,4 +6,3 @@ features.toggles:
     listener: true
     one: false
     two: true
-    query: true
